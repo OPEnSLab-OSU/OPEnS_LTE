@@ -2,7 +2,7 @@
 
 An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote sensing applications. 
 
-![](https://github.com/user-attachments/assets/250219a9-78e0-4130-b314-0bae8dfcf8aa?width=100)
+![](https://github.com/user-attachments/assets/250219a9-78e0-4130-b314-0bae8dfcf8aa?width=10)
 
 3D rendering of OPEnS LTE
 
