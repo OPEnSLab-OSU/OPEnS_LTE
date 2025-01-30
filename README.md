@@ -9,6 +9,8 @@ An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote se
 
 **<div align="center">Three dimensional rendering of "OPEnS LTE" in Autodesk Fusion 360</div>**
 
+"OPEnS LTE" measures 60mm x 26mm (Length x Width, rounded up to nearest integer). 
+
 <hr>
 
 <p align="center">
