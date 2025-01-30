@@ -19,3 +19,6 @@ An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote se
 **<div align="center">Functional prototype of "OPEnS LTE" (left), "OPEnS LTE" prototype connected to the internet (right) </div>**
 
 <hr>
+
+![image](https://github.com/user-attachments/assets/b830ba85-dc76-46fc-bde1-5ae7f1cbade6)
+
