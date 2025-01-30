@@ -18,5 +18,5 @@ Prototype of OPEnS LTE connected to the internet
 
 <p align="center">
  <img  src="https://github.com/user-attachments/assets/a4a6ea44-4d34-4dec-822b-46256c4834db" width="50%">   
- <img src="https://github.com/user-attachments/assets/212ad254-31b0-47d6-9b96-c7cdee6eeeef" width="230">
+ <img src="https://github.com/user-attachments/assets/212ad254-31b0-47d6-9b96-c7cdee6eeeef" width="50%">
 </p>
