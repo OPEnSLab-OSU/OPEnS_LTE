@@ -36,6 +36,38 @@ An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote se
 
 ### Technical Documentation:
 
+#### Pin Function:
+- VCC - Module power supply for SARA-R410M and other onboard components.
+- REF - Reference logic level for external microprocessor (supports 3.3V-5V logic).
+- PWR - Pin to wakeup SARA-R410M.
+- RST - Pin to reset SARA-R410M.
+- TX - UART data out to microprocessor.
+- RX - UART data in from microprocessor.
+
+#### Specification Tables:
+
+##### Recommended Operating Voltages:
+| Pin | Mininum (V) | Typical (V) | Maximum (V) |
+|-----|-------------|-------------|-------------|
+| VCC | 3.2 | 3.8 | 4.2 | 
+| REF | 1.8 | VCC | 5.5 |
+| PWR | GND | GND | VCC |
+| RST | GND | GND | VCC |
+| TX | GND | ~ | REF
+| RX | GND | ~ | REF
+
+##### Absolute Voltage Limits:
+| Pin | Mininum (V) | Maximum (V) |
+|-----|-------------|-------------|
+| VCC | -0.5 | 5.2 |
+| REF | -0.5 | 6.5 |
+| PWR | -18 | 18 |
+| RST | -18 | 18 |
+| TX | -0.5 | REF+0.5 |
+| RX | -0.5 | REF+0.5 |
+
 #### Schematic diagram for "OPEnS LTE:"
 ![image](https://github.com/user-attachments/assets/b830ba85-dc76-46fc-bde1-5ae7f1cbade6)
+
+
 
