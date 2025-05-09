@@ -1,5 +1,7 @@
 # OPEnS_LTE
 
+Wiki: [LTE](https://github.com/OPEnSLab-OSU/OPEnS-Lab-Home/wiki/LTE)
+
 An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote sensing applications. 
 
 <p align="center">
