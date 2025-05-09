@@ -20,11 +20,10 @@ An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote se
 4) How to Procure "OPEnS LTE."
 
 ### Breakdown of Repository Contents:
-1) "BOM for PCBWay.xlsx" --> Bill of materials (BOM) file (for upload to PCBWay's assembly service).
-2) "Gerber.zip" --> PCB manufacturing files (for upload to PCBWay's assembly service).
-3) "OPEnS LTE - REV 1.f3z" --> Design files archive (open using Autodesk Fusion).
-4) "PnP.xlsx" --> Pick and place centroid file (for upload to PCBWay's assembly service).
-5) "README.md" --> Repository readme file.
+1) "LTE Extension Rev 3 Archive.f3z" --> Autodesk Fusion 360 archive file for most recent revision, Rev 3. 
+2) "README.md" --> Repository readme file.
+3) "Rev 1.zip" --> Rev 1 manufacturing files for PCBWay, including Gerber, Pick-and-Place, and Bill of Materials.
+4) "Rev 3.zip" --> Rev 3 manufacturing files for PCBWay, including Gerber, Pick-and-Place, and Bill of Materials.
 
 <hr>
 <p align="center">
