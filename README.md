@@ -48,10 +48,11 @@ An LTE module based on the Ublox SARA-R410M series chipset for IoT and remote se
 - Power-on - Assert PWR pin to logical HIGH for 1-2 seconds, return to logical LOW.
 
 ![PowerOn drawio](https://github.com/user-attachments/assets/bf882d69-74ed-4c30-89df-733fc3fa40f9)
-
-
  
 - Reset - Assert RST pin to logical HIGH for 1-2 seconds, return to logical LOW.
+
+![PowerOn drawio](https://github.com/user-attachments/assets/bf882d69-74ed-4c30-89df-733fc3fa40f9)
+
 - Setting microprocessor logic level - Connect REF to microprocessor logic level reference (usually power supply). For Adafruit Feather M0, connect REF to Feather M0 VCC.
 
   
